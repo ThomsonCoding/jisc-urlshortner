@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/jisc-urlshortner/static/css/main.7803e784.chunk.css",
-    "main.js": "/jisc-urlshortner/static/js/main.13303141.chunk.js",
-    "main.js.map": "/jisc-urlshortner/static/js/main.13303141.chunk.js.map",
+    "main.css": "/jisc-urlshortner/static/css/main.c822bb3b.chunk.css",
+    "main.js": "/jisc-urlshortner/static/js/main.eff3e04b.chunk.js",
+    "main.js.map": "/jisc-urlshortner/static/js/main.eff3e04b.chunk.js.map",
     "runtime-main.js": "/jisc-urlshortner/static/js/runtime-main.40e80d7a.js",
     "runtime-main.js.map": "/jisc-urlshortner/static/js/runtime-main.40e80d7a.js.map",
     "static/js/2.4db0bc87.chunk.js": "/jisc-urlshortner/static/js/2.4db0bc87.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.9eaf2e0a.chunk.js": "/jisc-urlshortner/static/js/3.9eaf2e0a.chunk.js",
     "static/js/3.9eaf2e0a.chunk.js.map": "/jisc-urlshortner/static/js/3.9eaf2e0a.chunk.js.map",
     "index.html": "/jisc-urlshortner/index.html",
-    "static/css/main.7803e784.chunk.css.map": "/jisc-urlshortner/static/css/main.7803e784.chunk.css.map",
+    "static/css/main.c822bb3b.chunk.css.map": "/jisc-urlshortner/static/css/main.c822bb3b.chunk.css.map",
     "static/js/2.4db0bc87.chunk.js.LICENSE.txt": "/jisc-urlshortner/static/js/2.4db0bc87.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40e80d7a.js",
     "static/js/2.4db0bc87.chunk.js",
-    "static/css/main.7803e784.chunk.css",
-    "static/js/main.13303141.chunk.js"
+    "static/css/main.c822bb3b.chunk.css",
+    "static/js/main.eff3e04b.chunk.js"
   ]
 }
